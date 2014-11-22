@@ -30,3 +30,5 @@ The dataset includes the following files:
 
 -CodeBook.md: This describes the variables, the data, and any transformations or work that I performed to clean up the data
 
+-project_tidyData.txt: The tidy data set created by this project.
+
